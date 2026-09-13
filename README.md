@@ -1,6 +1,6 @@
-Folder BaiDauXe chứa code của IoT
+BaiDauXe chứa code của IoT
 
-Folder MaiCode chứa Server và DataDemo
+MaiCode chứa Server và DataDemo
 
 ParkGate chứa app của khách hàng
 
