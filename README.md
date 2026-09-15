@@ -3,6 +3,17 @@
 > **Đồ án tốt nghiệp:** Xây dựng bãi đỗ xe thông minh sử dụng AI nhận diện biển số và thẻ NFC ảo trên điện thoại.
 
 ---
+## Thông tin sinh viên
+
+| Thông tin | Chi tiết |
+|-----------|----------|
+| **SVTH** | **Vũ Duy Hoàng** |
+| **MSSV** | **22050038** |
+| **Lớp** | **25TH01** |
+| **Khóa** | **2022 – 2026** |
+| **Giảng viên hướng dẫn** | **ThS. Lê Duy Hùng** |
+
+---
 
 ## Giới thiệu
 
