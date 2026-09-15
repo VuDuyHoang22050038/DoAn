@@ -14,11 +14,17 @@ Hệ thống gồm ba thành phần chính:
 
 **Công nghệ và công cụ phát triển**
   Flutter
+  
   Google ML Kit
+  
   HCE NFC
+  
   Node.js
+  
   SQLite
+  
   MQTT (HiveMQ Cloud Broker)
+  
   ESP32
 
 **Chức năng chính**
