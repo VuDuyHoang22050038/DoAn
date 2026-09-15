@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Giới thiệu
+## Giới thiệu
 
 Đây là hệ thống bãi đỗ xe thông minh cho phép nhân viên sử dụng điện thoại Android để nhận diện biển số xe bằng AI và xác thực khách hàng bằng thẻ NFC ảo. Hệ thống giao tiếp với máy chủ thông qua **MQTT** và điều khiển barie bằng **ESP32**.
 
