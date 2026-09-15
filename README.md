@@ -1,6 +1,6 @@
 # Smart Parking System
 
-> **Đồ án tốt nghiệp:** Xây dựng hệ thống bãi đỗ xe thông minh sử dụng AI nhận diện biển số và thẻ NFC ảo trên điện thoại.
+> **Đồ án tốt nghiệp:** Xây dựng bãi đỗ xe thông minh sử dụng AI nhận diện biển số và thẻ NFC ảo trên điện thoại.
 
 ---
 
